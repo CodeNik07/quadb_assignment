@@ -64,11 +64,11 @@ This project is a clone of the [HodlInfo](https://hodlinfo.com) website built us
     ```bash
     # Start the backend server
     cd server
-    npm start
+    npm run test
 
     # Start the frontend client
     cd ../client
-    npm start
+    npm run dev
     ```
 5. **Access the app**:
    Open your browser and go to `http://localhost:5173/`.
