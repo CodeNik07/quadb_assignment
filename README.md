@@ -26,8 +26,8 @@ This project is a clone of the [HodlInfo](https://hodlinfo.com) website built us
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/CodeNik07/trackly.git
-    cd trackly
+    git clone https://github.com/CodeNik07/quadb_assignment.git
+    cd quadb_assignment
     ```
 
 2. **Install dependencies** for both frontend and backend:
